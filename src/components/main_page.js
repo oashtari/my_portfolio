@@ -4,15 +4,10 @@ import React from 'react';
 function MainPage() {
     return (
         <div className="MainPage">
-            <header id="header" class="alt">
-                <h2><strong>Beginnings...</strong> <span>by Omid Ashtari</span></h2>
-            </header>
-
-            {/* WELCOME  */}
             <section id="banner" class="major">
                 <div class="inner">
                     <header class="major">
-                        <h1>Hi, my name is Omid</h1>
+                        <h1>Hi, my name is Omid Ashtari</h1>
                     </header>
                 </div>
             </section>

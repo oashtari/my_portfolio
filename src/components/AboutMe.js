@@ -59,6 +59,30 @@ export default function AboutMe() {
                     <p>I don't even know what to put here.</p>
                 </header>
             </article> -->
-    </section>
+
+
+
+            <div class="inner">
+                <header class="major">
+                    <h3>This goes against every bit of my own being, but here it goes:</h3>
+                </header>
+                <p>I'm originally from Iran, lived there until the age of 7.5, when we went on 'vacation' to
+                        Germany, to escape the war.</p>
+                <p>We were in Germany for four years, their government was quite kind, giving a lot of support to
+                        immigrant in the mid-late 1980s.</p>
+                <p>Finally made it to the US in 1988, always our end destination, I spent the next 25 years of my
+                        life in Los Angeles.</p>
+                <p>In 2013 I moved away from LA, and for the first time lived in a different city from my mother,
+                    that was quite stressful for her, but necessary for me. Alas it was a short stint in the Bay
+                        Area, all of 30 months in total.</p>
+                <p>Mid 2015 I moved to Portland where I have been for the past four plus years.</p>
+                <p>So, yeah, don't love talking about myself, but hopefully that gives you a tiny bit of look into
+                        what has shaped me.</p>
+                <span class="image main"><img
+                    src="/Users/omid/Documents/Lambda/Web_Fundamentals/Advanced_CSS/portfolio-website/html5up-forty/images/Omid_tech_profile_pic.jpeg"
+                    alt="" /></span>
+
+            </div>
+        </section>
     )
 }
